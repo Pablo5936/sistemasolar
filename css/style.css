@@ -97,3 +97,8 @@ main {
   padding-top: 20px;
   margin-top: 50px;
 }
+
+img {
+  width: 40%;
+  border-radius: 10px;
+}
